@@ -21,7 +21,7 @@ from config import BOT_TOKEN, ADMIN_IDS, OWNER_USERNAME
 from telegram import ReplyKeyboardMarkup, KeyboardButton  # Import these for the buttons
 
 from keep_alive import keep_alive
-keep_alive()BeasTxt_Sasuke
+keep_alive()
 
 USER_FILE = "users.json"
 KEY_FILE = "keys.json"
